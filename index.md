@@ -15,6 +15,13 @@ tagline: Student, scientist, etc.
   {% endfor %}
 </dl>
 
+<h3>Categories</h3>
+<ul class="tag_box inline">
+  {% assign categories_list = site.categories %}
+  {% include JB/categories_list %}
+</ul>
+<br />
+
 <h3>Tags</h3>
 <ul class="tag_box inline">
   {% assign tags_list = site.tags %}  
