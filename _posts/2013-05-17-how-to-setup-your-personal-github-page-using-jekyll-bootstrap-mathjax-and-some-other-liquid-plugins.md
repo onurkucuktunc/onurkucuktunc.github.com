@@ -22,8 +22,7 @@ Disclaimer: this is not a complete guide, I've just taken notes for myself in ca
 3. Compile files with `$ jekyll build`, start the local server with `$ jekyll -w serve`.
 4. Hack theme files, stylesheets, default pages, headers, etc. to your taste.
 5. Check questions and answers at [http://stackoverflow.com/questions/tagged/jekyll](http://stackoverflow.com/questions/tagged/jekyll).
-6. Find useful Liquid plugins, such as, for [embedding YouTube videos](https://gist.github.com/joelverhagen/1805814) or [displaying equations](https://gist.github.com/drbunsen/2695841) using [MathJax](http://www.mathjax.org/), like:
-{% m %} J_\alpha(x) = \sum\limits_{m=0}^\infty \frac{(-1)^m}{m! \, \Gamma(m + \alpha + 1)}{\left({\frac{x}{2}}\right)}^{2 m + \alpha} {% em %}
+6. Find useful Liquid plugins, such as, for [embedding YouTube videos](https://gist.github.com/joelverhagen/1805814) or [displaying equations](https://gist.github.com/drbunsen/2695841) using [MathJax](http://www.mathjax.org/).
 7. Additional information: [GitHub Pages Help](https://help.github.com/categories/20/articles)
 
 ## Result
