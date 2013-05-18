@@ -7,7 +7,7 @@ tagline: Student, scientist, etc.
 {% include JB/setup %}
 
 <div class="span5 pull-right clearfix">
-<a href="archive.html" class="pull-right" style="margin-top:5px">see all...</a>
+<a href="archive.html" class="pull-right" style="margin-top:8px">see all...</a>
 <h3>News and Blog posts</h3>
 <dl>
   {% for post in site.posts limit:10 %}
@@ -35,7 +35,7 @@ I'm a Ph.D. candidate in [Computer Science and Engineering](http://www.cse.ohio-
 I'm current working with [Umit V. Catalyurek](http://bmi.osu.edu/~umit/) at [HPC Lab](http://bmi.osu.edu/hpc/) of [Biomedical Informatics](http://bmi.osu.edu) department.
 I received my B.S. and M.S. degrees from [Computer Engineering](http://cs.bilkent.edu.tr) department of [Bilkent University](http://www.bilkent.edu.tr), Ankara, Turkey in 2007 and 2009, respectively. During the masters, I worked on content-based video copy detection and visual similarity-based tag suggestion, and participated in TRECVID'08.
 
-Currently, my research interests include similarity and diversity search, citation analysis and recommendation, sentiment analysis, and opinion retrieval.
+**Research interests.** similarity and diversity search; citation analysis; recommendation; sentiment analysis; opinion retrieval
 
 #### Guide
 If you are a Turkish student and a newcomer here in Columbus, check out my guide, [Yeni Gelecekler ve/veya İlk Günkü Heyecanını Koruyanlar için The Ohio State University ve Amerika Kılavuzu](guide.htm).
