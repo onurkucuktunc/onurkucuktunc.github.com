@@ -35,10 +35,3 @@ If you are a Turkish student and a newcomer here in Columbus, check out my guide
 
 #### Blog
 I was keeping a technology blog 5-6 years ago, called AçıkBilgi, which was a little popular that time (around 200 visitor per day, it was also featured in a Turkish TV program). Although it has been quite a while since I lost its domain name with all of its content, I was able to retrieve at least my entries. Since then I've been trying to bring back those writings and add them to a tumblr blog: [acikbilgi.tumblr.com](http://acikbilgi.tumblr.com/).
-
-#### Things that I marked as interesting
-
-<span>
-<script type="text/javascript" src="https://www.google.com/reader/ui/publisher-en.js"></script>
-<script type="text/javascript" src="https://www.google.com/reader/public/javascript/user/14161509398826239295/state/com.google/starred?n=10&callback=GRC_p(%7Bc%3A%22-%22%2Ct%3A%22%22%2Cs%3A%22false%22%2Cn%3A%22false%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script>
-</span>
