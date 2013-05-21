@@ -26,7 +26,7 @@ group: navigation
 
 <div class="span3">
 <h1>CV/Resume</h1>
-<a class="btn btn-success" href="http://www.cse.ohio-state.edu/~kucuktun/kucuktunc_cv.pdf"><i class="icon-download icon-white"></i> Download PDF</a>
+<a class="btn btn-success" href="http://www.cse.ohio-state.edu/~kucuktun/kucuktunc_cv.pdf">Download PDF</a>
 </div>
 
 </div>
