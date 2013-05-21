@@ -124,16 +124,7 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-  scholar:
-    style: apa
-    locale: en
-    sort_by: none
-    order: ascending
-    source: ./
-    #_bibliography
-    bibliography: papers.bib
-    bibliography_template: %{reference}
-    details_dir:    bibliography
-    details_layout: bibtex.html
-    details_link:   Details
-    query: "@*"  
+# BibTex Citation plugin
+citation:
+    citation_style: apa
+    citation_locale: en

@@ -6,7 +6,7 @@ tagline: Student, scientist, etc.
 ---
 {% include JB/setup %}
 
-<div class="span5 pull-right clearfix">
+<div class="span6 pull-right clearfix">
 <a href="archive.html" class="pull-right" style="margin-top:8px">see all...</a>
 <h3>News and Blog posts</h3>
 <dl>
