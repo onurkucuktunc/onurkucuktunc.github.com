@@ -3,6 +3,7 @@ layout: page
 title: "Publications"
 description: "My publication list"
 group: navigation
+order: 2
 
 ---
 {% include JB/setup %}

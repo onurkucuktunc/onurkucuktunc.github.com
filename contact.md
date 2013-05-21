@@ -3,6 +3,7 @@ layout: page
 title: "Contact"
 description: "Contact me"
 group: navigation
+order: 3
 
 ---
 {% include JB/setup %}
@@ -12,9 +13,9 @@ group: navigation
 <div class="span5">
 <h1>Contact me</h1>
 <p>
-<strong>Office:</strong> 3165 Graves Hall, HPC Lab<br />
-<strong>Mail:</strong> 2015 Neil Ave DL395 Columbus OH 43210<br />
-<strong>E-mail:</strong> kucuktunc.1 [at] osu.edu<br />
+<span class="icon-road"> </span> <strong>Office:</strong> 3165 Graves Hall, HPC Lab<br />
+<span class="icon-envelope"> </span> <strong>Mail:</strong> 2015 Neil Ave DL395 Columbus OH 43210<br />
+<span class="icon-comment"> </span> <strong>E-mail:</strong> kucuktunc.1 [at] osu.edu<br />
 </p>
 </div>
 
@@ -26,7 +27,7 @@ group: navigation
 
 <div class="span3">
 <h1>CV/Resume</h1>
-<a class="btn btn-success" href="http://www.cse.ohio-state.edu/~kucuktun/kucuktunc_cv.pdf">Download PDF</a>
+<a class="btn btn-success" href="http://www.cse.ohio-state.edu/~kucuktun/kucuktunc_cv.pdf"><span class="icon-download icon-white"> </span> Download PDF</a>
 </div>
 
 </div>

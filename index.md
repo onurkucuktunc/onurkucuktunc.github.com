@@ -38,7 +38,7 @@ I received my B.S. and M.S. degrees from [Computer Engineering](http://cs.bilken
 **Research interests.** similarity and diversity search; citation analysis; recommendation; sentiment analysis; opinion retrieval
 
 #### Guide
-If you are a Turkish student and a newcomer here in Columbus, check out my guide, [Yeni Gelecekler ve/veya İlk Günkü Heyecanını Koruyanlar için The Ohio State University ve Amerika Kılavuzu](guide.htm).
+If you are a Turkish student and a newcomer in Columbus, check out my guide, [Yeni Gelecekler ve/veya İlk Günkü Heyecanını Koruyanlar için The Ohio State University ve Amerika Kılavuzu](guide.html).
 
 #### Blog
 I was keeping a technology blog 5-6 years ago, called AçıkBilgi, which was a little popular that time (around 200 visitor per day, it was also featured in a Turkish TV program). Although it has been quite a while since I lost its domain name with all of its content, I was able to retrieve at least my entries. Since then I've been trying to bring back those writings and add them to a tumblr blog: [acikbilgi.tumblr.com](http://acikbilgi.tumblr.com/).

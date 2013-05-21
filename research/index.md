@@ -2,6 +2,7 @@
 layout: page
 title: "Research"
 group: navigation
+order: 1
 description: "List of the projects that I have worked on or currently working on"
 
 ---
