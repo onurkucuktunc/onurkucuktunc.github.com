@@ -9,11 +9,11 @@ tagline: Student, scientist, etc.
 <div class="span6 pull-right clearfix">
 <a href="archive.html" class="pull-right" style="margin-top:8px">see all...</a>
 <h3>News and Blog posts</h3>
-<dl>
-  {% for post in site.posts limit:10 %}
-    <dt>{{ post.date | date_to_string }}</dt><dd> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></dd>
+<ul class="unstyled">
+  {% for post in site.posts limit:20 %}
+    <li><span class="muted">{{ post.date | date: "%d.%m.%y" }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-</dl>
+</ul>
 
 <h3>Categories</h3>
 <ul class="tag_box inline">
