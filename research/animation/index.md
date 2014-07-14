@@ -2,7 +2,7 @@
 layout: page
 title: "Animation"
 description: "We presented an efficient method for the simulation of boiling water by modeling bubbles and waves as particles, and adding a grid-based fluid surface."
-group: "projects-ms"
+group: projects-ms
 
 ---
 {% include JB/setup %}
@@ -23,7 +23,7 @@ modeling the bubbles and waves as particles. Grid-based approach is used both
 for the heating and the fluid surface. Our technique makes it possible to
 produce the animation of boiling phenomena nearly in real-time.</p>
 <p><i class="icon-info-sign"></i> <a href="http://dx.doi.org/10.1109/3DTV.2008.4547882">10.1109/3DTV.2008.4547882</a><br />
-<i class="icon-file"></i> <a href="http://www.cse.ohio-state.edu/~kucuktun/papers/04547882.pdf">PDF</a><br />
+<i class="icon-file"></i> <a href="../../papers/proceedings/Bulbul-3DTV08.pdf">PDF</a><br />
 <i class="icon-tags"></i> animation, boiling phenomena, fluid simulation, implicit surfaces, computational modeling, fluid flow, hydrodynamics, Navier-Stokes equations, physics, spline, surface fitting
 </p>
 <div class="well">A. Bulbul, O. Kucuktunc, B. Ozguc, <strong>Animation of Boiling Phenomena</strong>, <em>3DTV Conference: The True Vision - Capture, Transmission and Display of 3D Video</em>, 2008, pp.357-360, 28-30 May 2008.</div>
