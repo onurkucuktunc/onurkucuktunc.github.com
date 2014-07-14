@@ -34,7 +34,7 @@ One of these algorithms is currently deployed in a publicly available
 web-service called the<strong>advisor</strong>.
 </p>
 <p><span class="icon-info-sign"> </span> N/A<a href="http://dx.doi.org/"></a><br />
-<span class="icon-file"> </span> <a href="http://chenwsdb.fulton.ad.asu.edu/DBRank2012/dbrank-5.pdf">PDF</a><br />
+<span class="icon-file"> </span> <a href="../../papers/proceedings/Kucuktunc-DBRank12.pdf">PDF</a><br />
 <span class="icon-tags"> </span> literature search, graph, random walks, paper
 recommendation, web service
 </p>
@@ -71,7 +71,7 @@ that our techniques are highly efficient on reducing the query processing time
 which is highly crucial for a web service.
 </p>
 <p><span class="icon-info-sign"> </span> <a href="http://dx.doi.org/10.1109/ASONAM.2012.82">10.1109/ASONAM.2012.82</a><br />
-<span class="icon-file"> </span> <a href="http://bmi.osu.edu/hpc/papers/Kucuktunc12-ASONAM.pdf">PDF</a><br />
+<span class="icon-file"> </span> <a href="../../papers/proceedings/Kucuktunc-ASONAM12.pdf">PDF</a><br />
 <span class="icon-tags"> </span> citation recommendation, social network analysis, sparse matrices, hypergraphs, cache locality
 </p>
 <div class="well">O. Kucuktunc, K. Kaya, E. Saule, U.V. Catalyurek, <strong>Fast Recommendation on Bibliographic Networks</strong>, Proc. IEEE/ACM International Conference on Social Networks Analysis and Mining, 2012.</div>

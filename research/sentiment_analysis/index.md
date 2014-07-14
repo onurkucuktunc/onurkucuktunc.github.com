@@ -37,7 +37,7 @@ of users is not only interesting from a sociological point of view, but also has
 applications in advertising, recommendation, and search.
 </p>
 <p><span class="icon-info-sign"> </span> <a href="http://dx.doi.org/10.1145/2124295.2124371">10.1145/2124295.2124371</a><br />
-<span class="icon-file"> </span> <a href="http://www.cse.ohio-state.edu/~kucuktun/papers/Kucuktunc-WSDM12.pdf">PDF</a><br />
+<span class="icon-file"> </span> <a href="../../papers/proceedings/Kucuktunc-WSDM12.pdf">PDF</a><br />
 <span class="icon-tags"> </span> attitude, collaborative question answering, prediction, psychology, sentiment analysis, sentimentality, sociology
 </p>
 <div class="well">O. Kucuktunc, B.B. Cambazoglu, I. Weber, H. Ferhatosmanoglu, <strong>A Large-Scale Sentiment Analysis for Yahoo! Answers</strong>, <em>Proceedings of the fifth ACM international conference on Web search and data mining</em> (WSDM '12). ACM, New York, NY, USA, 633-642. (acceptance rate 20.7%).</div>
@@ -47,7 +47,7 @@ applications in advertising, recommendation, and search.
 <div class="span4">
 <h3>Supplementary Material</h3>
 Poster version of the full-paper.
-<a href="http://www.cse.ohio-state.edu/~kucuktun/papers/Kucuktunc-WSDM12-poster.pdf" class="thumbnail"><img src="sentiment-poster.jpg" /></a><br /><br />
+<a href="sentiment-poster.jpg" class="thumbnail"><img src="sentiment-poster.jpg" /></a><br /><br />
 
 Slides of the spotlight presentation.
 <a href="sentiment-slide1.jpg" class="thumbnail"><img src="sentiment-slide1.jpg" /></a><br />
