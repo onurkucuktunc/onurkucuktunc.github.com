@@ -2,7 +2,7 @@
 layout: page
 title: "Animation"
 description: "We presented an efficient method for the simulation of boiling water by modeling bubbles and waves as particles, and adding a grid-based fluid surface."
-group: "projects-complete"
+group: "projects-ms"
 
 ---
 {% include JB/setup %}

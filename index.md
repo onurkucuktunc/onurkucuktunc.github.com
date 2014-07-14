@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello, I'm Onur Kucuktunc.
-tagline: Student, scientist, etc.
+title: Onur Kucuktunc.
+tagline: engineer, researcher, etc.
 
 ---
 {% include JB/setup %}
@@ -31,11 +31,13 @@ tagline: Student, scientist, etc.
 
 <img src="images/onur.jpg" class="img-polaroid span2 pull-right" />
 
-I'm a Ph.D. candidate in [Computer Science and Engineering](http://www.cse.ohio-state.edu/) department at [The Ohio State University](http://www.osu.edu/).
-I'm current working with [Umit V. Catalyurek](http://bmi.osu.edu/~umit/) at [HPC Lab](http://bmi.osu.edu/hpc/) of [Biomedical Informatics](http://bmi.osu.edu) department.
-I received my B.S. and M.S. degrees from [Computer Engineering](http://cs.bilkent.edu.tr) department of [Bilkent University](http://www.bilkent.edu.tr), Ankara, Turkey in 2007 and 2009, respectively. During the masters, I worked on content-based video copy detection and visual similarity-based tag suggestion, and participated in TRECVID'08.
+Hello, I'm Onur Kucuktunc, currently a Software Engineer at [Google](http://google.com).
 
-**Research interests.** similarity and diversity search; citation analysis; recommendation; sentiment analysis; opinion retrieval
+I got my Ph.D. in August 2013 from [Computer Science and Engineering](http://www.cse.ohio-state.edu/) department at [The Ohio State University](http://www.osu.edu/).
+I'm current working with [Umit V. Catalyurek](http://bmi.osu.edu/~umit/) at [HPC Lab](http://bmi.osu.edu/hpc/) of [Biomedical Informatics](http://bmi.osu.edu) department.
+I received my B.S. and M.S. degrees from [Computer Engineering](http://cs.bilkent.edu.tr) department of [Bilkent University](http://www.bilkent.edu.tr), Ankara, Turkey in 2007 and 2009, respectively.
+
+**Research interests.** similarity and diversity search; citation analysis; recommendation; sentiment analysis; opinion retrieval; video copy detection
 
 #### Guide
 If you are a Turkish student and a newcomer in Columbus, check out my guide, [Yeni Gelecekler ve/veya İlk Günkü Heyecanını Koruyanlar için The Ohio State University ve Amerika Kılavuzu](guide.html).
