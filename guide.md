@@ -25,7 +25,7 @@ ve henüz tamamlanmamıştır...
 
 <div class="span3 well">
 <strong>Yeni Gelecekler ve/veya İlk Günkü Heyecanını Koruyanlar için The Ohio State University ve Amerika Kılavuzu</strong><br /><br />
-<a class="btn btn-success" href="http://www.cse.ohio-state.edu/~kucuktun/Kilavuz.pdf"><span class="icon-download icon-white"> </span> PDF'i indir</a>
+<a class="btn btn-success" href="Kilavuz.pdf"><span class="icon-download icon-white"> </span> PDF'i indir</a>
 </div>
 
 </div>
